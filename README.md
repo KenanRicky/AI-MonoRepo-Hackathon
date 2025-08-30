@@ -25,22 +25,6 @@ An AI-powered Expense Tracker application built with **React (Frontend)**, **Fla
 
 ---
 
-## 📂 Project Structure
-AI-MonoRepo/
-│
-├── backend/
-│ ├── app.py # Flask API
-│ ├── requirements.txt # Python dependencies
-│ ├── model.pkl # Trained ML model
-│ ├── Dockerfile
-│
-├── frontend/
-│ ├── src/
-│ ├── package.json
-│ ├── Dockerfile
-│
-├── docker-compose.yml
-└── README.md
 
 ## 📂 Backend
 cd backend
